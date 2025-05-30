@@ -1,4 +1,6 @@
-# Projeto React Componentes
+<h1 align='center'>Projeto Organo: Colaboradores e Times Unidos</h1>
+
+Site desenvolvido com a missão de unir e facilitar na organização de colaboradores e times de forma simples e intuitiva.
 
 ## Objetivo Principal
 Projeto consiste em um site responsivo onde o usuário pode preencher um formulario com algumas informações por exemplo: nome, cargo, escolher uma imagem e definir o time para criar um card de colaborador.

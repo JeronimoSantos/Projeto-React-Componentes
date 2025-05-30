@@ -99,7 +99,7 @@ function App() {
       favorito: false,
       nome: 'JERÔNIMO S.RODRIGUES',
       cargo: 'Desenvolvedor Front-End Senior',
-      imagem: './public/imagens/desenvolvedor-jeronimo.jpeg',
+      imagem: '../public/imagens/desenvolvedor-jeronimo.jpeg',
       time: times[1].nome
     },
     {

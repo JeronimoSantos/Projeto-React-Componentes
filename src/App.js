@@ -91,7 +91,7 @@ function App() {
       favorito: false,
       nome: 'JULIANA AMOASEI',
       cargo: 'Desenvolvedora de software e instrutora',
-      imagem: '/imagens/desenvolvedor-jeronimo.jpeg',
+      imagem: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
       time: times[1].nome
     },
     {
@@ -99,7 +99,7 @@ function App() {
       favorito: false,
       nome: 'JERÔNIMO S.RODRIGUES',
       cargo: 'Desenvolvedor Front-End Senior',
-      imagem: '../public/imagens/desenvolvedor-jeronimo.jpeg',
+      imagem: '/imagens/desenvolvedor-jeronimo.jpeg',
       time: times[1].nome
     },
     {

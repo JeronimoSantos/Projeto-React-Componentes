@@ -97,9 +97,9 @@ function App() {
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'DANIEL ARTINE',
-      cargo: 'Engenheiro de Software na Stone Age',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
+      nome: 'JERÔNIMO S.RODRIGUES',
+      cargo: 'Desenvolvedor Front-End Senior',
+      imagem: 'https://media.licdn.com/dms/image/v2/D4D03AQEuqFOyiVJHdA/profile-displayphoto-shrink_800_800/B4DZUznN49G8Ac-/0/1740327674744?e=1753920000&v=beta&t=sIjzOHPwtTL0FQco8TI_FvXq9PITKUWZHGd3fj7fDmA',
       time: times[1].nome
     },
     {
